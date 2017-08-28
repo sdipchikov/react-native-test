@@ -1,8 +1,8 @@
 {
 	"count": 3,
 	"items":[
-  			{"price": 6.1, "payeeId": 123, "payeeName": "SupaStar", "categoryId": 321, "timestamp": 1503920482, "description": "Minestrone - it was OK"},
-  			{"price": 3.5, "payeeId": 12, "payeeName": "The fruit shop ot Iskar", "categoryId": 21, "timestamp": 1503661282, "description": "Bananas"},
-  			{"price": 110, "payeeId": 23, "payeeName": "Eko", "categoryId": 2, "timestamp": 1503834082, "description": "Gas"}
+  			{"amount": 6.1, "payeeId": 123, "payeeName": "SupaStar", "categoryId": 321, "timestamp": 1503920482, "description": "Minestrone - it was OK"},
+  			{"amount": 3.5, "payeeId": 12, "payeeName": "The fruit shop ot Iskar", "categoryId": 21, "timestamp": 1503661282, "description": "Bananas"},
+  			{"amount": 110, "payeeId": 23, "payeeName": "Eko", "categoryId": 2, "timestamp": 1503834082, "description": "Gas"}
   		]
 }
